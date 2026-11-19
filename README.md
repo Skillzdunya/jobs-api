@@ -34,7 +34,7 @@ Free, read-only JSON API for **government and private jobs in Pakistan**, from
 | `gender` | `gender=female` | |
 | `government` | `government=1` | `1` = government only, `0` = private only |
 | `international` | `international=1` | Overseas jobs |
-| `bps_min`, `bps_max` | `bps_min=16&status=all` | Pay scale range |
+| `bps_min`, `bps_max` | `bps_min=16` | Pay scale range (BPS) |
 | `salary_min` | `salary_min=100000` | PKR per month |
 | `experience_max` | `experience_max=0` | Years; `0` = fresh graduates |
 | `status` | `status=open` | `open`, `expired` or `all` |
